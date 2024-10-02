@@ -21,3 +21,10 @@ Welcome to an exciting card game where you battle against the computer for victo
 * If the computer exceeds 21, you win automatically!
 
 This thrilling game is built using **vanilla Python**, showcasing both your programming skills and your strategic thinking. Are you ready to test your luck and outsmart the computer? Let’s find out!
+![Screentshot 1](https://github.com/abhijeet1312/BLACKJACK-_GAME/blob/main/images/Screenshot%202024-10-01%20001342.png)
+
+
+![Screentshot 2](https://github.com/abhijeet1312/BLACKJACK-_GAME/blob/main/images/Screenshot%202024-10-01%20001415.png)
+
+
+![Screentshot 3](https://github.com/abhijeet1312/BLACKJACK-_GAME/blob/main/images/Screenshot%202024-10-01%20001457.png)
